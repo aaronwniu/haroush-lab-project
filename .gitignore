@@ -14,3 +14,6 @@ results/
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints
+
+# Mac system files
+.DS_Store
