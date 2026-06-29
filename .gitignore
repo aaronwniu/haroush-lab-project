@@ -1,0 +1,16 @@
+# Environments
+venv/
+env/
+.env
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data (we typically don't want to commit large data files to git)
+data/
+results/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
